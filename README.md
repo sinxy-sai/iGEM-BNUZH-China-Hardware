@@ -9,6 +9,7 @@ Portable Bioculture Chamber_Liner.step,This is the 3D model of the liner of the 
 ​​Gel Printhead Assembly.step,This is the assembly 3D model of the gel nozzle, which corresponds to Section Wiki 2.3.3.
 
 中文介绍
+
 Portable Bioculture Chamber_Liner.step,这是发酵罐内胆的3D模型，对应Wiki2.1部分
 
 ​​Portable Raw Material Mixing Tank.step,这是我们的原料混合罐的3D模型，对应我们wiki的2.2部分
